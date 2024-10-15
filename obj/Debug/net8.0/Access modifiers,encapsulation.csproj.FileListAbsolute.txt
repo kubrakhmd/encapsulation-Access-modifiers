@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\bin\Debug\net8.0\Access modifiers,encapsulation.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\bin\Debug\net8.0\Access modifiers,encapsulation.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\bin\Debug\net8.0\Access modifiers,encapsulation.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\bin\Debug\net8.0\Access modifiers,encapsulation.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\bin\Debug\net8.0\Access modifiers,encapsulation.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\refint\Access modifiers,encapsulation.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\Access modifiers,encapsulation.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\access modifiers,encapsulation\Access modifiers,encapsulation\Access modifiers,encapsulation\obj\Debug\net8.0\ref\Access modifiers,encapsulation.dll
